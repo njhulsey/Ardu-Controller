@@ -8,6 +8,7 @@ Contains all of the basic circuitry for an arduino Uno as well as some addition 
   - Buzzer
   - lipo battery charger
   - LEDs
+  - Serial (which is used to communicate with a PC)
   
 As for the code there are two projects included in this repository. 
 The first project is used for controlling a mouse with the game controller using python's serial class.
